@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  KANGDIARY
+
+  Created by Kanghos on 2021/11/01.
+  
+*/
+
+CFBundleDisplayName = "My Diary";
+NSCameraUsageDescription = "Please Access Camera";

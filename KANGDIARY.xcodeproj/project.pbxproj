@@ -13,6 +13,27 @@
 		D52A8906272F6F450084A5E1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D52A8904272F6F450084A5E1 /* Main.storyboard */; };
 		D52A8908272F6F460084A5E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D52A8907272F6F460084A5E1 /* Assets.xcassets */; };
 		D52A890B272F6F460084A5E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D52A8909272F6F460084A5E1 /* LaunchScreen.storyboard */; };
+		D52A8916272F702C0084A5E1 /* SCDream2.otf in Resources */ = {isa = PBXBuildFile; fileRef = D52A8913272F6FCF0084A5E1 /* SCDream2.otf */; };
+		D52A8917272F702C0084A5E1 /* SCDream5.otf in Resources */ = {isa = PBXBuildFile; fileRef = D52A8915272F6FCF0084A5E1 /* SCDream5.otf */; };
+		D52A8918272F702C0084A5E1 /* SCDream9.otf in Resources */ = {isa = PBXBuildFile; fileRef = D52A8914272F6FCF0084A5E1 /* SCDream9.otf */; };
+		D52A891B272F738A0084A5E1 /* UIFont+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52A891A272F738A0084A5E1 /* UIFont+Extension.swift */; };
+		D52A8923272F80260084A5E1 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = D52A8925272F80260084A5E1 /* Localizable.strings */; };
+		D52A892A272F853A0084A5E1 /* Setting.strings in Resources */ = {isa = PBXBuildFile; fileRef = D52A892C272F853A0084A5E1 /* Setting.strings */; };
+		D52A8931272F87B30084A5E1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D52A8933272F87B30084A5E1 /* InfoPlist.strings */; };
+		D52A8937272F88FE0084A5E1 /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52A8936272F88FE0084A5E1 /* String+Extension.swift */; };
+		D52A8939272F89FC0084A5E1 /* LocalizableStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52A8938272F89FC0084A5E1 /* LocalizableStrings.swift */; };
+		D52A893B2730160A0084A5E1 /* Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D52A893A2730160A0084A5E1 /* Home.storyboard */; };
+		D52A893D273016180084A5E1 /* Content.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D52A893C273016180084A5E1 /* Content.storyboard */; };
+		D52A893F273016310084A5E1 /* Calendar.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D52A893E273016310084A5E1 /* Calendar.storyboard */; };
+		D52A8941273016370084A5E1 /* Search.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D52A8940273016370084A5E1 /* Search.storyboard */; };
+		D52A89432730163B0084A5E1 /* Setting.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D52A89422730163B0084A5E1 /* Setting.storyboard */; };
+		D52A8945273016800084A5E1 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52A8944273016800084A5E1 /* HomeViewController.swift */; };
+		D52A89472730168E0084A5E1 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52A89462730168E0084A5E1 /* AddViewController.swift */; };
+		D52A8949273016990084A5E1 /* CalendarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52A8948273016990084A5E1 /* CalendarViewController.swift */; };
+		D52A894B273016A50084A5E1 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52A894A273016A50084A5E1 /* SearchViewController.swift */; };
+		D52A894D273016AE0084A5E1 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52A894C273016AE0084A5E1 /* SettingViewController.swift */; };
+		D56E9BD8273038D4002A4B04 /* DiaryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56E9BD6273038D4002A4B04 /* DiaryTableViewCell.swift */; };
+		D56E9BD9273038D4002A4B04 /* DiaryTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D56E9BD7273038D4002A4B04 /* DiaryTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +45,37 @@
 		D52A8907272F6F460084A5E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D52A890A272F6F460084A5E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D52A890C272F6F460084A5E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D52A8913272F6FCF0084A5E1 /* SCDream2.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SCDream2.otf; sourceTree = "<group>"; };
+		D52A8914272F6FCF0084A5E1 /* SCDream9.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SCDream9.otf; sourceTree = "<group>"; };
+		D52A8915272F6FCF0084A5E1 /* SCDream5.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SCDream5.otf; sourceTree = "<group>"; };
+		D52A891A272F738A0084A5E1 /* UIFont+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIFont+Extension.swift"; sourceTree = "<group>"; };
+		D52A891C272F7C9E0084A5E1 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Main.strings; sourceTree = "<group>"; };
+		D52A891D272F7C9E0084A5E1 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		D52A891E272F7D0E0084A5E1 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
+		D52A891F272F7D0E0084A5E1 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		D52A8924272F80260084A5E1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		D52A8926272F803D0084A5E1 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		D52A8927272F803D0084A5E1 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
+		D52A892B272F853A0084A5E1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Setting.strings; sourceTree = "<group>"; };
+		D52A892D272F85410084A5E1 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Setting.strings; sourceTree = "<group>"; };
+		D52A892E272F85410084A5E1 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Setting.strings; sourceTree = "<group>"; };
+		D52A8932272F87B30084A5E1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D52A8934272F87B80084A5E1 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D52A8935272F87BC0084A5E1 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D52A8936272F88FE0084A5E1 /* String+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
+		D52A8938272F89FC0084A5E1 /* LocalizableStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizableStrings.swift; sourceTree = "<group>"; };
+		D52A893A2730160A0084A5E1 /* Home.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Home.storyboard; sourceTree = "<group>"; };
+		D52A893C273016180084A5E1 /* Content.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Content.storyboard; sourceTree = "<group>"; };
+		D52A893E273016310084A5E1 /* Calendar.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Calendar.storyboard; sourceTree = "<group>"; };
+		D52A8940273016370084A5E1 /* Search.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Search.storyboard; sourceTree = "<group>"; };
+		D52A89422730163B0084A5E1 /* Setting.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Setting.storyboard; sourceTree = "<group>"; };
+		D52A8944273016800084A5E1 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		D52A89462730168E0084A5E1 /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
+		D52A8948273016990084A5E1 /* CalendarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarViewController.swift; sourceTree = "<group>"; };
+		D52A894A273016A50084A5E1 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		D52A894C273016AE0084A5E1 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
+		D56E9BD6273038D4002A4B04 /* DiaryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryTableViewCell.swift; sourceTree = "<group>"; };
+		D56E9BD7273038D4002A4B04 /* DiaryTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DiaryTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +108,60 @@
 		D52A88FD272F6F450084A5E1 /* KANGDIARY */ = {
 			isa = PBXGroup;
 			children = (
+				D52A8920272F7FAC0084A5E1 /* Localization */,
+				D52A8919272F73650084A5E1 /* Extension */,
 				D52A88FE272F6F450084A5E1 /* AppDelegate.swift */,
 				D52A8900272F6F450084A5E1 /* SceneDelegate.swift */,
 				D52A8902272F6F450084A5E1 /* ViewController.swift */,
 				D52A8904272F6F450084A5E1 /* Main.storyboard */,
+				D52A8912272F6F890084A5E1 /* Font */,
 				D52A8907272F6F460084A5E1 /* Assets.xcassets */,
 				D52A8909272F6F460084A5E1 /* LaunchScreen.storyboard */,
+				D52A893A2730160A0084A5E1 /* Home.storyboard */,
+				D52A8944273016800084A5E1 /* HomeViewController.swift */,
+				D52A893C273016180084A5E1 /* Content.storyboard */,
+				D52A89462730168E0084A5E1 /* AddViewController.swift */,
+				D52A893E273016310084A5E1 /* Calendar.storyboard */,
+				D52A8948273016990084A5E1 /* CalendarViewController.swift */,
+				D52A8940273016370084A5E1 /* Search.storyboard */,
+				D52A894A273016A50084A5E1 /* SearchViewController.swift */,
+				D56E9BD6273038D4002A4B04 /* DiaryTableViewCell.swift */,
+				D56E9BD7273038D4002A4B04 /* DiaryTableViewCell.xib */,
+				D52A89422730163B0084A5E1 /* Setting.storyboard */,
+				D52A894C273016AE0084A5E1 /* SettingViewController.swift */,
 				D52A890C272F6F460084A5E1 /* Info.plist */,
 			);
 			path = KANGDIARY;
+			sourceTree = "<group>";
+		};
+		D52A8912272F6F890084A5E1 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				D52A8913272F6FCF0084A5E1 /* SCDream2.otf */,
+				D52A8915272F6FCF0084A5E1 /* SCDream5.otf */,
+				D52A8914272F6FCF0084A5E1 /* SCDream9.otf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		D52A8919272F73650084A5E1 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				D52A891A272F738A0084A5E1 /* UIFont+Extension.swift */,
+				D52A8936272F88FE0084A5E1 /* String+Extension.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		D52A8920272F7FAC0084A5E1 /* Localization */ = {
+			isa = PBXGroup;
+			children = (
+				D52A8925272F80260084A5E1 /* Localizable.strings */,
+				D52A892C272F853A0084A5E1 /* Setting.strings */,
+				D52A8933272F87B30084A5E1 /* InfoPlist.strings */,
+				D52A8938272F89FC0084A5E1 /* LocalizableStrings.swift */,
+			);
+			path = Localization;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -109,6 +206,8 @@
 			knownRegions = (
 				en,
 				Base,
+				ko,
+				ja,
 			);
 			mainGroup = D52A88F2272F6F450084A5E1;
 			productRefGroup = D52A88FC272F6F450084A5E1 /* Products */;
@@ -125,9 +224,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D52A893F273016310084A5E1 /* Calendar.storyboard in Resources */,
+				D52A8916272F702C0084A5E1 /* SCDream2.otf in Resources */,
+				D56E9BD9273038D4002A4B04 /* DiaryTableViewCell.xib in Resources */,
+				D52A893B2730160A0084A5E1 /* Home.storyboard in Resources */,
+				D52A8917272F702C0084A5E1 /* SCDream5.otf in Resources */,
+				D52A8918272F702C0084A5E1 /* SCDream9.otf in Resources */,
 				D52A890B272F6F460084A5E1 /* LaunchScreen.storyboard in Resources */,
+				D52A893D273016180084A5E1 /* Content.storyboard in Resources */,
+				D52A8923272F80260084A5E1 /* Localizable.strings in Resources */,
+				D52A892A272F853A0084A5E1 /* Setting.strings in Resources */,
+				D52A89432730163B0084A5E1 /* Setting.storyboard in Resources */,
 				D52A8908272F6F460084A5E1 /* Assets.xcassets in Resources */,
+				D52A8931272F87B30084A5E1 /* InfoPlist.strings in Resources */,
 				D52A8906272F6F450084A5E1 /* Main.storyboard in Resources */,
+				D52A8941273016370084A5E1 /* Search.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +249,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D52A894B273016A50084A5E1 /* SearchViewController.swift in Sources */,
+				D52A894D273016AE0084A5E1 /* SettingViewController.swift in Sources */,
+				D52A89472730168E0084A5E1 /* AddViewController.swift in Sources */,
 				D52A8903272F6F450084A5E1 /* ViewController.swift in Sources */,
+				D52A8939272F89FC0084A5E1 /* LocalizableStrings.swift in Sources */,
 				D52A88FF272F6F450084A5E1 /* AppDelegate.swift in Sources */,
+				D52A891B272F738A0084A5E1 /* UIFont+Extension.swift in Sources */,
+				D52A8937272F88FE0084A5E1 /* String+Extension.swift in Sources */,
+				D52A8949273016990084A5E1 /* CalendarViewController.swift in Sources */,
+				D52A8945273016800084A5E1 /* HomeViewController.swift in Sources */,
 				D52A8901272F6F450084A5E1 /* SceneDelegate.swift in Sources */,
+				D56E9BD8273038D4002A4B04 /* DiaryTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -151,6 +271,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				D52A8905272F6F450084A5E1 /* Base */,
+				D52A891C272F7C9E0084A5E1 /* ko */,
+				D52A891E272F7D0E0084A5E1 /* ja */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -159,8 +281,40 @@
 			isa = PBXVariantGroup;
 			children = (
 				D52A890A272F6F460084A5E1 /* Base */,
+				D52A891D272F7C9E0084A5E1 /* ko */,
+				D52A891F272F7D0E0084A5E1 /* ja */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		D52A8925272F80260084A5E1 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D52A8924272F80260084A5E1 /* en */,
+				D52A8926272F803D0084A5E1 /* ja */,
+				D52A8927272F803D0084A5E1 /* ko */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		D52A892C272F853A0084A5E1 /* Setting.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D52A892B272F853A0084A5E1 /* en */,
+				D52A892D272F85410084A5E1 /* ja */,
+				D52A892E272F85410084A5E1 /* ko */,
+			);
+			name = Setting.strings;
+			sourceTree = "<group>";
+		};
+		D52A8933272F87B30084A5E1 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D52A8932272F87B30084A5E1 /* en */,
+				D52A8934272F87B80084A5E1 /* ja */,
+				D52A8935272F87BC0084A5E1 /* ko */,
+			);
+			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -170,6 +324,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
@@ -231,6 +386,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";

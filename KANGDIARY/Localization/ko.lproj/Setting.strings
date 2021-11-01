@@ -1,0 +1,10 @@
+/* 
+  Setting.strings
+  KANGDIARY
+
+  Created by Kanghos on 2021/11/01.
+  
+*/
+
+"data_backup" = "백업";
+"data_restore" = "복구";
